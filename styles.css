@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(247, 247, 247);
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 25%;
+}
+
+img {
+    border-radius: 5%;
+}
+
+figcaption {
+    font-weight: 600;
+}
